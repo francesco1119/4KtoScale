@@ -1,2 +1,5 @@
 # 4KtoScale
-Scale 4K videos to whatever you want
+Scale 4K videos in bulk, no need to buy expensive software 
+
+For Windows:
+
